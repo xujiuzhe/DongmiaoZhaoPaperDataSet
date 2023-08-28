@@ -1,2 +1,1 @@
-# DongmiaoZhaoPaperDataSet
-Text mining dataset
+# Text mining dataset
